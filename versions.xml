@@ -12,6 +12,8 @@ HOW TO USE IT:
 
 <icons>
   <line>
-    <icon name="Template" ID="1" color="#666" locked="false" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
+    <icon name="Anxiety" ID="1" color="#005758" locked="false" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
+    <icon name="Sorrow" ID="2" color="#391C0A" locked="false" customName="true" customIcon="asset-v2/icon.png" hidden="false"></icon>
+    <icon name="Suffer" ID="3" color="#000000" locked="false" customName="true" customIcon="asset-v3/icon.png" hidden="false"></icon>
   </line>
 </icons>

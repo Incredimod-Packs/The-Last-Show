@@ -2,8 +2,8 @@
     "animeName":"7_squid",
     "percentageMax":"0.2",
     "totalFrame":"420",
-    "width":"164",
-    "height":"380",
+    "width":"328",
+    "height":"760",
     "headHeight":"244",
     "arrayFrame":[ 
     {"prop": "0,380,0,5"},

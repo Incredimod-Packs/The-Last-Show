@@ -14,10 +14,18 @@ FORMATTING:
 
 <credits>
   <page 
-  noImage="true"
-  image=""
+  noImage="false"
+  image="mod-credits/02c_crew-hd.png"
   title="Credit Page"
-  text="You can edit this page inside (!italic/mod-credits/credits.xml file.)(!line) You can add more pages by copying the page tag and pasting it below the last page tag."
+  text="The Team
+(!line) DEVS -
+(!line) Cola Man, ComposerJames
+(!line) People that helped -
+(!line) Mr Medicated oil,
+(!line) HantaNyaw44, idkare
+(!line) jester, limez
+(!line) pichuzapper, cube
+(!line) vefy, mr. error."
   />
   <page 
   noImage="false"
